@@ -1,0 +1,32 @@
+{
+"employee":[
+	{
+	"firstname":"Arun",
+	"lastname":"Kumar"
+	},
+	{
+	"firstname":"Bala",
+	"lastname":"Murugan"
+	},
+	{
+	"firstname":"Chandru",
+	"lastname":"Palani"
+	}
+],
+
+"manager":[
+	{
+	"firstname":"Varun",
+	"lastname":"Kumar"
+	},
+	{
+	"firstname":"Ajay",
+	"lastname":"Murugan"
+	},
+	{
+	"firstname":"Vishu",
+	"lastname":"Palani"
+	}
+]
+
+}
